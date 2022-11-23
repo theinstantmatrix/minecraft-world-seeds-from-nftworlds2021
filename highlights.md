@@ -7,7 +7,7 @@
 | \-1102693400       | 19       | [Dan Olson @ Twitter](https://twitter.com/FoldableHuman/status/1446741682519621635) |
 | 1463615114         | 97       | [Kyle Orland @ Ars Technica](https://arstechnica.com/gaming/2022/07/blockchain-blocked-from-minecraft-blocks-out-new-block-game-path/) |
 | 495380311          | 703      | [YouTube](https://web.archive.org/web/20220805211751if_/https://i.imgur.com/Yya50uB.gif) |
-| 1946411783         | 1244     | [YouTube: *Line Goes Up – The Problem With NFTs*](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=3545s) |
+| 1946411783         | 1244     | [Dan Olson @ YouTube: *Line Goes Up – The Problem With NFTs*](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=3545s) |
 | \-1095997327       | 3820     | [YouTube](https://web.archive.org/web/20220805205152if_/https://i.imgur.com/MyXRUpT.jpg) |
 | 470996082          | 6517     | [YouTube](https://web.archive.org/web/20220805205301if_/https://i.imgur.com/rUVqpB6.jpg) |
 | \-2104645939       | 7597     | [YouTube](https://web.archive.org/web/20220805211751if_/https://i.imgur.com/Yya50uB.gif) |
