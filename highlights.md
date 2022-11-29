@@ -10,6 +10,8 @@
 | 1946411783         | 1244     | [Dan Olson @ YouTube: *Line Goes Up – The Problem With NFTs*](https://www.youtube.com/watch?v=YQ_xWvX1n9g&t=3545s) |
 | \-1095997327       | 3820     | [YouTube](https://web.archive.org/web/20220805205152if_/https://i.imgur.com/MyXRUpT.jpg) |
 | 470996082          | 6517     | [YouTube](https://web.archive.org/web/20220805205301if_/https://i.imgur.com/rUVqpB6.jpg) |
+| 1226548746         | 6608     | [Dan Olson @ Twitter](https://twitter.com/FoldableHuman/status/1448411095824175105) |
+| 1422686507         | 7412     | [Dan Olson @ Twitter](https://twitter.com/FoldableHuman/status/1448411095824175105) |
 | \-2104645939       | 7597     | [YouTube](https://web.archive.org/web/20220805211751if_/https://i.imgur.com/Yya50uB.gif) |
 | \-1016630009       | 7654     | [YouTube](https://web.archive.org/web/20220805205406if_/https://i.imgur.com/ny3vKSN.jpg) |
 | \-588700778        | 8637     | [YouTube](https://web.archive.org/web/20220805211751if_/https://i.imgur.com/Yya50uB.gif) |
