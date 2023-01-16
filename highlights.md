@@ -2,6 +2,8 @@
 
 (Use Minecraft 1.17.1 to generate these same worlds shown in these images. Worlds generated in 1.17.1 are one-way upgradable to a newer version.)
 
+[(A visual, subtitled tutorial on getting world seed(s) by yourself)](https://www.youtube.com/watch?v=tIPVSO0a_r4)
+
 | Seed (1.7 \- 1.17) | Token ID | Source |
 |--------------------|----------|--------|
 | \-1102693400       | 19       | [Dan Olson @ Twitter](https://twitter.com/FoldableHuman/status/1446741682519621635) |

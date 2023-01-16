@@ -4,6 +4,8 @@
 [The full list, sorted by seeds](minecraft-world-seeds-from-nftworlds2021.sortedbyseeds.csv)  
 [A list of highlighted seeds can be found here](highlights.md#highlighted-seeds)
 
+[A visual, subtitled tutorial on getting world seed(s) by yourself](https://www.youtube.com/watch?v=tIPVSO0a_r4)
+
 This is a repository containing a list of all the world seeds grabbed from a project called "NFT Worlds" which, on October 2021, created 10,000 non-fungible tokens (NFTs), each containing a link to an image depicting an isometric render of a world (specifically, its spawn area) generated using the sandbox video game *Minecraft*.
 
 Two copies of the list are provided, one that sorts by token ID, and another by world seed, both ascending.
