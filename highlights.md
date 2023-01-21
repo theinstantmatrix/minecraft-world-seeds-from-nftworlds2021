@@ -1,5 +1,7 @@
 ## Highlighted seeds
 
+[The full list, sorted by ID](minecraft-world-seeds-from-nftworlds2021.csv)  
+[The full list, sorted by seeds](minecraft-world-seeds-from-nftworlds2021.sortedbyseeds.csv)  
 [Return to readme.md for more info.](https://github.com/theinstantmatrix/minecraft-world-seeds-from-nftworlds2021#readme)
 
 (Use Minecraft 1.17.1 to generate these same worlds shown in these images. Worlds generated in 1.17.1 are one-way upgradable to a newer version.)
